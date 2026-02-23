@@ -7,3 +7,5 @@
 -- g.loaded_python3_provider = 1
 --
 -- g.node_host_prog = "/Users/yonimadar/.nvm/versions/node/v20.15.0/bin/neovim-node-host"
+
+vim.opt.clipboard = "unnamedplus"
